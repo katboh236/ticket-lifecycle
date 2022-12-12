@@ -36,7 +36,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/3SjzqLn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a new ticket as an external end user (Karen Johnson) in osTicket Support Center. Karen is manager of online banking platform and she wanted to create a ticket to notify IT department that mobile banking is down. The help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking.
+<img src="https://imgur.com/vYRT1BI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created a new ticket as an external end user (Karen Johnson) in osTicket Support Center. Karen is manager of online banking platform and she wanted to create a ticket to notify IT department that mobile banking is down. The help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. Karen also created another ticket as "General Inquiry" to find out some info about hardware refresh as her department is having issues with their currents tablet and she requested it to be answered ASAP. 
 </p>
 <br />
 
@@ -48,6 +51,16 @@ Ken from Accounting Department created a new ticket as "Personal Computer Issues
 </p>
 <br />
 
+<p>
+<img src="https://imgur.com/TGSGAtG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://imgur.com/8Xs5StQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Jane Green as a queue manager is going to go through open tickets and assign them to other help desk professionals if needed. Open ticket by Karen "Entire mobile banking is down" sounds like business impacting incident and it could potentially lose money for the business so Jane set up this ticket as an "Emergency" priority level and assigned it to herself to resolve it. 
+</p>
+<br />v
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
