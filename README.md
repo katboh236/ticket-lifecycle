@@ -58,7 +58,17 @@ Ken from Accounting Department created a new ticket as "Personal Computer Issues
 <img src="https://imgur.com/8Xs5StQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane Green as a queue manager is going to go through open tickets and assign them to other help desk professionals if needed. Open ticket by Karen "Entire mobile banking is down" sounds like business impacting incident and it could potentially lose money for the business so Jane set up this ticket as an "Emergency" priority level and assigned it to herself to resolve it. 
+<img src="https://imgur.com/A56Tkui.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Jane Green as a queue manager is going to go through open tickets and assign them to other help desk professionals if needed. Open ticket by Karen "Entire mobile banking is down" sounds like business impacting incident and it could potentially lose money for the business so Jane set up this ticket as an "Emergency" priority level. Jane set SLA Plan as SEV-A as this ticket is critical incident and it has to be resolved in a matter of one hour. She also assigned this ticket to "System Administrators" department as they are responsible for mobile banking infrastructure. Jerry from Sys Engineering found and corrected a failed load balancer, and ticket got resolved.
+</p>
+<br />v
+<p>
+<img src="https://imgur.com/bO8HKXP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next ticket "Entire Accounting Dept Adobe Reader is not working" was assigned to John Green with "High" priority level and re-assigned to SEV-B SLA Plan.
 </p>
 <br />v
 <p>
