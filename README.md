@@ -63,18 +63,25 @@ Ken from Accounting Department created a new ticket as "Personal Computer Issues
 <p>
 Jane Green as a queue manager is going to go through open tickets and assign them to other help desk professionals if needed. Open ticket by Karen "Entire mobile banking is down" sounds like business impacting incident and it could potentially lose money for the business so Jane set up this ticket as an "Emergency" priority level. Jane set SLA Plan as SEV-A as this ticket is critical incident and it has to be resolved in a matter of one hour. She also assigned this ticket to "System Administrators" department as they are responsible for mobile banking infrastructure. Jerry from Sys Engineering found and corrected a failed load balancer, and ticket got resolved.
 </p>
-<br />v
+<br />
 <p>
 <img src="https://imgur.com/bO8HKXP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next ticket "Entire Accounting Dept Adobe Reader is not working" was assigned to John Green with "High" priority level and re-assigned to SEV-B SLA Plan.
+Next ticket "Entire Accounting Dept Adobe Reader is not working" was assigned to John Smith with "High" priority level and re-assigned to SEV-B SLA Plan.
 </p>
-<br />v
+<br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/7Ws7dJc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Agents will be able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs.
+A "When are we getting hardware refresh" ticket was set to a "Low" priority level with SEV-C SLA Plan and resolved by a queue manager - Jane Green as hardware was slated for Q1 and Karen's department was already able to start testing new units. 
 </p>
-<br />v
+<br />
+<p>
+<img src="https://imgur.com/3v0FsFE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+John Smith logged in into his osTicket account to resolve a "Entire Account Dept Adobe Reader is not working" ticket assigned to him. John rolled back version of Adobe Reader to previous version and in the meantime, he will research why the new version doesn't work on the Accounting Department hardware. After doing some research. John figured out the problem, re-upgraded eveyone to a newer version of Adobe Reader and closed the ticket.
+</p>
+<br />
