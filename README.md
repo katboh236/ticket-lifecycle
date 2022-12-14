@@ -42,7 +42,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 Created a new ticket as an external end user (Karen Johnson) in osTicket Support Center. Karen is manager of online banking platform and she wanted to create a ticket to notify IT department that mobile banking is down. The help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. Karen also created another ticket as "General Inquiry" to find out some info about hardware refresh as her department is having issues with their currents tablet and she requested it to be answered ASAP. 
 </p>
 <br />
-
 <p>
 <img src="https://imgur.com/Yrc9T8S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -50,7 +49,6 @@ Created a new ticket as an external end user (Karen Johnson) in osTicket Support
 Ken from Accounting Department created a new ticket as "Personal Computer Issues" as entire Accounting Department Adobe Reader is not working and nobody has been able to use it since the upgrade last night.  
 </p>
 <br />
-
 <p>
 <img src="https://imgur.com/TGSGAtG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
